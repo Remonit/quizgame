@@ -1,0 +1,13 @@
+1. Als gebruiker wil ik op een kaart kiezen waar ik wil vechten zodat ik daar trainers kan vechten
+
+2. Als gebruiker wil ik met verschillende trainers op de map kunnen aanspreken zodat ik in een gevecht met ze beland
+
+3. Als gebruiker wil ik een party aan pokemon hebben zodat ik kan vechten
+
+4. Als gebruiker wil ik een HP bar per pokemon zodat ik kan zien hoe lang ze nog te leven hebben
+
+5. Als gebruiker wil ik de keuze hebben tussen 4 aanvallen in een battle zodat ik mijn tegenstander kan verslaan
+
+6. Als gebruiker wil ik dat pokemon en moves verschillende types hebben die anders op elkaar reageren zodat er counters bestaan tegen specifieke trainers.
+
+7. Als gebruiker wil ik de nieuwe kampioen worden wanneer alle trainers verslagen zijn zodat ik de game kan winnen
