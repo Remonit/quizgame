@@ -12,7 +12,11 @@ namespace quiz
     {
         static void Main(string[] args)
         {
-            using (var reader = new StreamReader("D:/school/JAAR3/PROJECT/quiz/quiz/questions.csv"))
+            string[] chosenAnswers;
+            Console.WriteLine("Hey welkom in de quiz app!\nKun je even de path van het .csv bestand hieronder typen?");
+            string filePath = Console.ReadLine();
+
+            using (var reader = new StreamReader("D:/school/JAAR3/PROJECT/quizgame/quiz/quiz/questions.csv"))
             {
 
                 List<Question> questionList = new List<Question>();
@@ -34,6 +38,7 @@ namespace quiz
                     {
                         Console.WriteLine("dit is een open vraag, vul je antwoord hieronder in:");
                         string chosenAnswer = Console.ReadLine();
+                        
                     }
                     else
                     {

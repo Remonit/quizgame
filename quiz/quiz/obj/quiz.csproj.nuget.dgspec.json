@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\quiz.csproj": {}
+    "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\quiz.csproj": {}
   },
   "projects": {
-    "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\quiz.csproj": {
+    "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\quiz.csproj",
+        "projectUniqueName": "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\quiz.csproj",
         "projectName": "quiz",
-        "projectPath": "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\quiz.csproj",
+        "projectPath": "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\quiz.csproj",
         "packagesPath": "C:\\Users\\r_moe\\.nuget\\packages\\",
-        "outputPath": "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\obj\\",
+        "outputPath": "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\r_moe\\AppData\\Roaming\\NuGet\\NuGet.Config",

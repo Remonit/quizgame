@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rawv2huI8kRVN2zJ+R+2ZVfwXKtgpV1FTKPAPrvX/LUmAdvXZgOGugyIIpW3mrWq14I7s//aJr2CFiA9InYRcQ==",
+  "dgSpecHash": "hFqR+f7NvpARTe/g59bKM9Fdy7rGQFeq6xk2f0/A8dpuriqOr4J/QT8+8a9beqzFhQuv+EHGgFIn+Pe9EyY+OQ==",
   "success": true,
-  "projectFilePath": "D:\\school\\JAAR3\\PROJECT\\quiz\\quiz\\quiz.csproj",
+  "projectFilePath": "D:\\school\\JAAR3\\PROJECT\\quizgame\\quiz\\quiz\\quiz.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r_moe\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
   ],
